@@ -55,10 +55,10 @@ This React component represents a simple shopping cart with essential functional
 
 ## Netlify Link
 
-[link](https://todo-list-react-day-5.netlify.app/)
+[link](https://cart-task-day-8.netlify.app/)
 
 ```bash
-https://todo-list-react-day-5.netlify.app/
+https://cart-task-day-8.netlify.app/
 ```   
 
 ## Contributing

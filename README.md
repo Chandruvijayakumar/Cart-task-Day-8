@@ -14,7 +14,7 @@ This React component represents a simple shopping cart with essential functional
 1. **Clone the repository:**
 
     ```bash
-    https://github.com/Chandruvijayakumar/Cart-Page
+    https://github.com/Chandruvijayakumar/Cart-task-Day-8
     ```
 
 2. **Navigate to the project directory:**

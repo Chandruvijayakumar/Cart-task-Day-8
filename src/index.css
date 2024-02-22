@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Merienda:wght@575&family=Protest+Revolution&display=swap');
+body{
+    font-family: Merienda;
+}
+@media screen and (min-width:768px){
+    .column{
+        justify-content: start !important;
+        gap: 30%;
+        padding-left: 10%;
+    }
+}
+@media screen and (min-width:1024px) {
+    .column {
+        justify-content: start !important;
+        gap: 30%;
+        padding-right: 30% !important;
+    }
+}
+@media screen and (min-width:425px) {
+    .column {
+        justify-content: start !important;
+        gap: 30%;
+        padding-left: 10%;
+    }
+}
+@media screen and (min-width:375px) {
+    .column {
+        justify-content: start !important;
+        gap: 30%;
+        padding-left: 7%;
+    }
+}
+@media screen and (min-width:1440px) {
+    .column {
+        justify-content: start !important;
+        gap: 30%;
+        padding-left: 22%;
+    }
+}
+@media screen and (min-width:2560px) {
+    .column {
+        justify-content: start !important;
+        gap: 30%;
+        padding-left: 22%;
+    }
+}
+    
+.navbar {
+    opacity: inherit;
+    background-color: rgb(7, 7, 54);
+    color: rgb(188, 180, 196);
+    border-radius: 5vh;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.card {
+    width: 100%;
+    justify-content: space-between;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: rgba(9, 30, 66, 0.25) 2px 2px 0.5px 0.5px;
+}
+.site:hover {
+    transform: scale(1.1);
+}
+.home:hover {
+    transform: scale(1.1);
+}
+.cart:hover {
+    transform: scale(1.1);
+}
+.img-container{
+    width:  70%;
+    height: auto;
+    overflow: hidden;
+    display: inline-block;
+}
+.content {
+    text-align: center;
+    font-size: large;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+    width: 18%;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    gap: 20px;
+    color: black;
+    margin-left: 10%;
+}
